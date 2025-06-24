@@ -83,7 +83,7 @@ An interactive web app for predicting heart disease risk based on clinical input
 
 ```bash
 pip install gradio joblib numpy pandas scikit-learn matplotlib seaborn plotly
-python 07_gradio_app_deployment.ipynb
+python 7_gradio_app.py
 ```
 
 Or use:  
