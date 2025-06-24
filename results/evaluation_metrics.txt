@@ -1,0 +1,7 @@
+
+📊 Model Performance Comparison:
+                 Model  Accuracy  Precision  Recall  F1 Score  ROC AUC
+0  Logistic Regression     0.869      0.812   0.929     0.867    0.960
+1        Decision Tree     0.754      0.697   0.821     0.754    0.759
+2        Random Forest     0.869      0.833   0.893     0.862    0.937
+3                  SVM     0.918      0.871   0.964     0.915    0.961
