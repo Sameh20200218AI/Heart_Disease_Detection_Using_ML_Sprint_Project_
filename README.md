@@ -5,24 +5,7 @@ A complete end-to-end machine learning project that predicts the presence of hea
 
 ---
 
-## 📁 Project Structure
 
-```
-├── 1_data_preprocessing_visualization.ipynb
-├── 2_pca_analysis.ipynb
-├── 3_feature_selection.ipynb
-├── 4_model_training_evaluation.ipynb
-├── 5_unsupervised_clustering.ipynb
-├── 6_hyperparameter_tuning.ipynb
-├── 7_gradio_app.ipynb
-├── models/
-├── plots/
-├── heart_disease_train.csv / test.csv / ...
-├── model_performance.csv
-└── README.md
-```
-
----
 
 ## 📊 Dataset
 
@@ -100,7 +83,7 @@ An interactive web app for predicting heart disease risk based on clinical input
 
 ```bash
 pip install gradio joblib numpy pandas scikit-learn matplotlib seaborn plotly
-python 07_gradio_app_deployment.py
+python 07_gradio_app_deployment.ipynb
 ```
 
 Or use:  
