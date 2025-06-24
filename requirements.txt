@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mpl_toolkits
+plotly
+streamlit
+joblib
+os
+gradio
